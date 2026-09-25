@@ -447,7 +447,9 @@ def main():
     reporter = Reporter()
     check_config(reporter, config_file)
 
-    check_slug(reporter, config_file, root_dir)
+    # Slug check disabled: this site is not registered with The Carpentries,
+    # so the repo name does not follow the YYYY-MM-DD-site format.
+    # check_slug(reporter, config_file, root_dir)
 
     check_unwanted_files(root_dir, reporter)
     with open(index_file, encoding='utf-8') as reader:
