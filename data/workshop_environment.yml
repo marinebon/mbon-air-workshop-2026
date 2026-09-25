@@ -1,4 +1,4 @@
-name: carpentries
+name: mbon-workshop
 channels:
   - conda-forge
 dependencies:
