@@ -73,14 +73,6 @@ The Marine Biodiversity Observation Network (MBON) and the AIR Centre will host 
 
 By the end of the workshop, attendees will have a clear understanding of the process of mobilizing biological data to OBIS and will have brought one of their datasets to a final maturity state that aligns with best practices for data sharing and biodiversity documentation. The workshop will also enhance awareness of improving the quality of marine biodiversity data and will increase the availability of marine biological data for scientific research, species conservation, and ecosystem-based management by promoting data publication through OBIS. Additionally, the workshop will foster collaborative research efforts among participants and contribute to the MBON community of practice by increasing capacity in the implementation of coordinated and standardized biodiversity observing and publishing efforts.
 
-{% if site.carpentry == "swc" %}
-{% include swc/intro.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/intro.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/intro.html %}
-{% endif %}
-
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
