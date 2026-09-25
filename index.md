@@ -67,7 +67,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-<img src="img/logo-workshop.png" alt="workshop logo image">
+<img src="img/logo-workshop.png" alt="Workshop: Enhancing Marine Biodiversity Data Collection and Publication, 19-23 October 2026, Terceira Island, Azores" width="100%">
 
 The Marine Biodiversity Observation Network (MBON) and the AIR Centre will host a small, hands-on, interactive workshop focused on mobilizing marine biological observation datasets to the Ocean Biodiversity Information System (OBIS). The objective is to help data holders understand the value of following good practices for standardizing biological data, using widely accepted biodiversity standards like Darwin Core. This would include records of different biological attributes and ecosystem observations from different types of sampling methodologies. A complementary activity of the workshop will contemplate a field work day in which participants will receive training on the collection and processing of benthic photo-quadrat imagery and their analysis following MBON Pole to Pole monitoring protocols, aiming to enhance capacity for long-term monitoring of rocky intertidal communities.
 
